@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "640789483700",
+    "project_id": "fir-shop-10fb1",
+    "storage_bucket": "fir-shop-10fb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640789483700:android:110067b5ba080d108507e1",
+        "android_client_info": {
+          "package_name": "com.rachen0101.shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640789483700-fmv0c7fnb1gh0lb8soar6ss5p7eht7at.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1HzUsYxXiNIzfKxxiNNK1tadlRc5Pgy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640789483700-fmv0c7fnb1gh0lb8soar6ss5p7eht7at.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
